@@ -1,0 +1,14 @@
+# Flask API and CORS support
+Flask
+flask-cors
+
+# MySQL connection pool
+mysql-connector-python
+
+# Environment configuration and authentication
+python-dotenv
+PyJWT
+Werkzeug
+
+# Production WSGI server
+gunicorn
